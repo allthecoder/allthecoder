@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there! I'm Alexandre / All :) </h1>
 
 <p align="center">
-  <img src="./programming%20gif.gif" alt="me coding" width="600"/>
+    <img src="https://github.com/user-attachments/assets/b0899412-cdf6-48ac-a373-7f389fb0c9e5" alt="me coding" width="600"/>
 </p>
 
 <h3 align="center"> 💻 Software Engineer Intern | 📚 Computer Science Student at USP </h3>
