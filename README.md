@@ -13,7 +13,7 @@
 - 📚 Studying **Computer Science** at ICMC/USP.   
 - 🎮 Gamer at heart - *For the Alliance!* 💙🦁 (yes, I’m that guy in WoW).  
 - 📖 Love reading, from tech books to epic adventures.  
-- 🎧 Music keeps me coding — from lo-fi beats to epic OSTs.  
+- 🎧 Music keeps me coding - from lo-fi beats to Bring Me The Horizon.  
 - 🍥 Anime fan - *One Piece* is my all-time favorite.  
 - 🐧 Proud trainer of my favorite Pokémon: **Piplup**.  
 - 🚀 Passionate about technology, clean code, and constantly learning new things.  
