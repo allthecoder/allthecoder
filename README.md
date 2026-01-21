@@ -8,8 +8,7 @@
 
 
 ## ❄️ About Me
-
-- 💻 Currently working as a **Software Engineer Intern at Axur**.  
+  
 - 📚 Studying **Computer Science** at ICMC/USP.   
 - 🎮 Gamer at heart - *For the Alliance!* 💙🦁 (yes, I’m that guy in WoW).  
 - 📖 Love reading, from tech books to epic adventures.  
